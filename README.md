@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Garett Brown or @zyrxvo around the internet
 - 🌱 I’m currently a Physics PhD student at the University of Toronto working with @hannorein
-- 📫 You can reach me via email at gbrown@physics.utoronto.ca or through Twitter @zyrxvo
+- 📫 You can reach me via email at garett.brown@mail.utoronto.ca or through Twitter @zyrxvo
