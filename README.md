@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Garett Brown or @zyrxvo around the internet
-- 🌱 I’m currently a Physics PhD student at the University of Toronto working with @hannorein
-- 📫 You can reach me via email at garett.brown@mail.utoronto.ca or through Mastodon https://mas.to/@zyrxvo
+- 💻 I’m currently a Software Developer at Xanadu Quantum Technologies Inc.
+- 🎓 I have a PhD in Physics from the University of Toronto where I worked with @hannorein
+- 📫 You can reach me via email at garett.brown@xanadu.ai or through Mastodon https://mas.to/@zyrxvo
